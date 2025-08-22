@@ -11,7 +11,7 @@ A modern, responsive web application to track and manage job applications. Built
 - **Navigation**: Built with React Router for smooth page transitions
 - **Modern UI**: Clean and intuitive interface with React components
 
-![Dashboard](./src/assets/screenshots/dashboard.png)
+![Dashboard](./src/assets/dashboard.png)
 
 ## 🛠️ Tech Stack
 
